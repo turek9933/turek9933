@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @turek9933
-- 👀 I’m interested in games, history
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Bachelor of Science in Computer Science (specialization: web and mobile applications). Oct. 2022 – Juny. 2026.
 
-<!---
-turek9933/turek9933 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build full-stack web and mobile applications, experiment with electronics and microcontrollers, and run my own home lab.
+
+Website: [tomaszturek.fit](https://tomaszturek.fit)
